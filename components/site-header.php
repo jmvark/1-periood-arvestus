@@ -6,7 +6,7 @@
 
   <nav class="menu-main">
     <ul class="menu">
-      <?php 
+  <?php 
         foreach($menu_main as $title => $page) {
         echo '<li><a href="'.$page.'">'.$title.'</a></li>';
       }?>

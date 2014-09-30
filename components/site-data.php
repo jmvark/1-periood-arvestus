@@ -10,7 +10,7 @@
   $footer_content = "Arvestustöö: Jason Max Värk - 30.09.2014";
 
   $blog_news =
-    array(
+    $index = array(
       array(
         "post_title" => "Eesti Disainiauhindade pidulik gala tõi ohtralt auhindu ja moeka seltskonna",
         "post_excerpt" => "<p>Reedel, 26. septembril toimus Lilleküla jalgpallihallis pidulik Eesti Disainiauhinnad 2014 pidulik gala, kus pärjati parimaid kodumaiseid disainereid. Selle aasta parimad disainerid tunnustati viies kategoorias: tootedisain, graafiline disain, veebidisain, noor disainer ja teenusedisain. Silmapaistvaimad tegijad valiti välja 434 erineva töö seast.</p>",
