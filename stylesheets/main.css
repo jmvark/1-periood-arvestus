@@ -4,6 +4,10 @@ body {
   color: #333333;
 }
 
+img {
+  width: 250px;
+  height: auto;}
+
 #site-header:after, #site-content:after {
   content: '';
   display: table;

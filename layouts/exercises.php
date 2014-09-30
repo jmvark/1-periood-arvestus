@@ -29,6 +29,15 @@
 
         <h2>Kõikide piltide väljastamine</h2>
         <!--  Sisesta siia kood -->
+<div id="images">
+        <?php
+          for ($i=1; $i <13 ; $i++) { 
+            echo '<img src="http://users.khk.ee/kaspar.naaber/svp/periood-1/arvestus/images/'.$i.'.jpg">';
+            
+          }
+
+        ?>
+        </div>
       </section>
     </main>
 
@@ -36,3 +45,5 @@
   </div>
 </body>
 </html>
+
+
